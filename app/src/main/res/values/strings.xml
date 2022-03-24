@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradienDrawableAnimation</string>
+    <string name="click_to_start_animation">Click on the view to have the animation</string>
+</resources>
